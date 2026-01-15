@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🇺🇸 English  <br>Tech student interested in **cybersecurity, networking, and web development**.  <br>I like understanding how systems work, experimenting in practice, and learning by building real projects.<br><br>## 🇧🇷 Português  <br>Estudante de tecnologia com interesse em **cibersegurança, redes e desenvolvimento web**.  <br>Gosto de entender como sistemas funcionam, experimentar na prática e aprender criando projetos reais.<br>
+ 🇺🇸 English  <br>Tech student interested in **cybersecurity, networking, and web development**.  <br>I like understanding how systems work, experimenting in practice, and learning by building real projects.<br><br>## 🇧🇷 Português  <br>Estudante de tecnologia com interesse em **cibersegurança, redes e desenvolvimento web**.  <br>Gosto de entender como sistemas funcionam, experimentar na prática e aprender criando projetos reais.<br>
 
 
 # 💻 Tech Stack:
